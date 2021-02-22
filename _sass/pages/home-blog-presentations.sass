@@ -1,0 +1,97 @@
+.home,
+.blog,
+.presentations
+    margin-top: 125px
+
+    > .list
+        border-top: 1px solid $epsilon
+        margin-top: 30px
+        padding-top: 40px
+        position: relative
+
+        &:before
+            display: block
+            content: " "
+            width: 7px
+            height: 7px
+            border: $epsilon 1px solid
+            position: absolute
+            top: -5px
+            left: 50%
+            margin-left: -5px
+            background: #FFF
+            box-shadow: #FFF 0 0 0 5px
+            border-radius: 3px
+
+.home > .list,
+.blog > .list,
+.presentations > .list
+    > .item
+        display: block
+        width: 95%
+        margin: 0 auto
+        padding: 20px 0
+
+    > .item > .description
+        display: block
+        margin: 0 auto
+        padding: 5px 0
+
+    > .item > .subtitle
+        color: $gama
+        font-weight: 300
+        display: block
+        margin: 0 auto
+        padding: 5px 0
+
+    > .item > .resources
+        list-style: none
+        margin: 0 auto
+        display: inline
+
+    > .item > .resources > .resource
+        margin: 0px 10px 0px 0px
+
+    > .item > .resources > .resource > .url
+        text-decoration: underline
+        color: black
+
+    > .item > .url
+        width: 100%
+        display: block
+        padding: 0 0
+        text-decoration: none
+
+    > .item > .title
+        display: inline
+        margin: 0
+        width: 75%
+        font-weight: 500
+        transition: all ease-in-out .2s
+
+    // maybe we can't nest html5 elements
+    // can you help me?
+    aside
+        position: relative
+        top: 2px
+        margin: 0
+        width: 25%
+        float: right
+        font-weight: 300
+        color: $gama
+        text-align: right
+        transition: all ease-in-out .2s
+
+    .item:hover .url aside
+        color: $alpha
+
+.blog > .list > .item > .url,
+.presentations > .list > .item > .url
+    > .title
+        display: inline
+
+    > .emoji
+        display: inline
+        position: relative
+        top: -4px
+        margin-right: 10px
