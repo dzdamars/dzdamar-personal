@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Profile Image]({{ site.url }}/dzdamar-portfolio/{{ site.picture }})
+![Profile Image]({{ site.url }}/dzdamar-personal/{{ site.picture }})
 
 ---
 
