@@ -63,6 +63,4 @@ This is the project I've been working on so far
 
 Check out my [GitHub][1] page for some of my other projects.
 
-Or if you want to know more details about the project I am working on, then please contact me on (+62) 895-6118-79307
-
 [1]: https://github.com/dzdamars
