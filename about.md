@@ -9,9 +9,9 @@ layout: page
 
 <h2>Dzumaratin Damar Sasongko</h2>
 
-_**Passionate computer scientist. Software engineer, and a competency cyber security for IT architecture and integration at work.**_
+_**Passionate computer scientist. Software engineer, and competence in cyber security for IT architecture and integration at work.**_
 
-_**I am involved in several developer communities – both as an co-organiser, and as a member for various IT conferences and other events and meetups.**_
+_**I am involved in several developer communities – both as a co-organizer, and as a member for various IT conferences and other events.**_
 
 
 ---
