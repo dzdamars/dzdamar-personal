@@ -17,19 +17,19 @@ _**I am involved in several developer communities – both as an co-organiser, a
 ---
 
 <h2>About me</h2>
-<p>I graduated from SMKN 1 Cibinong, and currently studying in Computer Science from the Mercu Buana University. I have been working as a developer and programmer for over two years and have been working as a offensive cyber security for over one years.</p>
+<p>I graduated from SMKN 1 Cibinong, and currently studying at Mercu Buana University majoring in Computer Science. I have worked as a developer and programmer for over two years and have worked in offensive cybersecurity for over a year.</p>
 
 <p>In my spare time. I always learn how to make a good website, I always learn how to make structured coding and how to protect websites to be safe from hackers.</p>
 
-<p>Apart from that, I always taking time to be a bug hunter, looking for security holes in websites/android apps and then reporting it to the website/android app owner. I really enjoy it, because of that I can also help secure the website from other rogue hackers.</p>
+<p>In addition, I always take the time to become a bug hunter, look for security holes in the website/android application and then report it to the owner of the website/android application.</p>
 
 <h2>Skills</h2>
 <h4>FrontEnd :</h4>
 <ul class="skill-list">
 	<li>HTML</li>
 	<li>CSS</li>
-	<li>Javascript </li>
-	<li>ReactJS</li>
+	<li>Javascript</li>
+	<li>VueJS</li>
 </ul>
 
 <h4>Backend :</h4>
